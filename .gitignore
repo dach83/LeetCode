@@ -1,4 +1,5 @@
-.idea\
-
-# Project exclude paths
-/.gradle/
+# IntellijIdea files
+*.iml
+.idea
+.gradle
+out
