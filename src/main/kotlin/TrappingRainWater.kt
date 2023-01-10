@@ -20,7 +20,7 @@ class TrappingRainWater {
         val leftWaterHeight = leftToRightWaterHeight(wallHeight)
         val rightWaterHeight = rightToLeftWaterHeight(wallHeight)
         val result = IntArray(wallHeight.size)
-        for (i in leftWaterHeight.indices) {
+        for (i in result.indices) {
             result[i] = minOf(
                 leftWaterHeight[i],
                 rightWaterHeight[i]
