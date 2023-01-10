@@ -3,43 +3,31 @@ import kotlin.test.assertEquals
 
 class FirstMissingPositiveTest {
 
-    @Test
-    fun example1() {
-        val nums = intArrayOf(1, 2, 0)
+    private fun checkAnswer(expected: Int, nums: IntArray) {
         val sut = FirstMissingPositive()
 
         val actual = sut.firstMissingPositive(nums)
 
-        assertEquals(expected = 3, actual)
+        assertEquals(expected, actual)
+    }
+
+    @Test
+    fun example1() {
+        checkAnswer(expected = 3, nums = intArrayOf(1, 2, 0))
     }
 
     @Test
     fun example2() {
-        val nums = intArrayOf(3, 4, -1, 1)
-        val sut = FirstMissingPositive()
-
-        val actual = sut.firstMissingPositive(nums)
-
-        assertEquals(expected = 2, actual)
+        checkAnswer(expected = 2, nums = intArrayOf(3, 4, -1, 1))
     }
 
     @Test
     fun example3() {
-        val nums = intArrayOf(7, 8, 9, 11, 12)
-        val sut = FirstMissingPositive()
-
-        val actual = sut.firstMissingPositive(nums)
-
-        assertEquals(expected = 1, actual)
+        checkAnswer(expected = 1, nums = intArrayOf(7, 8, 9, 11, 12))
     }
 
     @Test
     fun example4() {
-        val nums = intArrayOf(-1, -2, 0)
-        val sut = FirstMissingPositive()
-
-        val actual = sut.firstMissingPositive(nums)
-
-        assertEquals(expected = 1, actual)
+        checkAnswer(expected = 1, nums = intArrayOf(-1, -2, 0))
     }
 }
