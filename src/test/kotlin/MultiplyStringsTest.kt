@@ -1,5 +1,5 @@
+import com.google.common.truth.Truth.assertThat
 import org.junit.jupiter.api.Test
-import kotlin.test.assertEquals
 
 class MultiplyStringsTest {
 
@@ -8,7 +8,7 @@ class MultiplyStringsTest {
 
         val actual = sut.multiply(num1, num2)
 
-        assertEquals(expected, actual)
+        assertThat(actual).isEqualTo(expected)
     }
 
     @Test

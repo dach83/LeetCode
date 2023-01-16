@@ -1,5 +1,5 @@
+import com.google.common.truth.Truth.assertThat
 import org.junit.jupiter.api.Test
-import kotlin.test.assertEquals
 
 class FirstMissingPositiveTest {
 
@@ -8,7 +8,7 @@ class FirstMissingPositiveTest {
 
         val actual = sut.firstMissingPositive(nums)
 
-        assertEquals(expected, actual)
+        assertThat(actual).isEqualTo(expected)
     }
 
     @Test

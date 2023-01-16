@@ -1,5 +1,5 @@
+import com.google.common.truth.Truth.assertThat
 import org.junit.jupiter.api.Test
-import kotlin.test.assertEquals
 
 class TrappingRainWaterTest {
 
@@ -8,7 +8,7 @@ class TrappingRainWaterTest {
 
         val actual = sut.trap(height)
 
-        assertEquals(expected, actual)
+        assertThat(actual).isEqualTo(expected)
     }
 
     @Test
