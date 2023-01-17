@@ -1,5 +1,5 @@
 /**
- * Problem description on [LeetCode](https://leetcode.com/problems/two-sum/description/)
+ * Problem description on [LeetCode](https://leetcode.com/problems/two-sum/)
  */
 class TwoSum {
 
