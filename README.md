@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Permutations](src/main/kotlin/Permutations.kt) - description on [LeetCode](https://leetcode.com/problems/permutations/)
    - [Jump Game II](src/main/kotlin/JumpGameII.kt) - description on [LeetCode](https://leetcode.com/problems/jump-game-ii/)
    - [Wildcard Matching](src/main/kotlin/WildcardMatching.kt) - description on [LeetCode](https://leetcode.com/problems/wildcard-matching/)
    - [Multiply Strings](src/main/kotlin/MultiplyStrings.kt) - description on [LeetCode](https://leetcode.com/problems/multiply-strings/)
