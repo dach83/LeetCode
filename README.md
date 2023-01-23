@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Rotate Image](src/main/kotlin/RotateImage.kt) - description on [LeetCode](https://leetcode.com/problems/rotate-image/)
    - [Permutations II](src/main/kotlin/PermutationsII.kt) - description on [LeetCode](https://leetcode.com/problems/permutations-ii/)
    - [Permutations](src/main/kotlin/Permutations.kt) - description on [LeetCode](https://leetcode.com/problems/permutations/)
    - [Jump Game II](src/main/kotlin/JumpGameII.kt) - description on [LeetCode](https://leetcode.com/problems/jump-game-ii/)
