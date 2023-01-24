@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Pow(x, n)](src/main/kotlin/PowXN.kt) - description on [LeetCode](https://leetcode.com/problems/powx-n/)
    - [Group Anagrams](src/main/kotlin/GroupAnagrams.kt) - description on [LeetCode](https://leetcode.com/problems/group-anagrams/)
    - [Rotate Image](src/main/kotlin/RotateImage.kt) - description on [LeetCode](https://leetcode.com/problems/rotate-image/)
    - [Permutations II](src/main/kotlin/PermutationsII.kt) - description on [LeetCode](https://leetcode.com/problems/permutations-ii/)
