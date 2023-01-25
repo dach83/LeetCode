@@ -15,6 +15,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [3Sum](src/main/kotlin/ThreeSum.kt) - description on [LeetCode](https://leetcode.com/problems/3sum/)
    - [Longest Common Prefix](src/main/kotlin/LongestCommonPrefix.kt) - description on [LeetCode](https://leetcode.com/problems/longest-common-prefix/)
    - [Roman to Integer](src/main/kotlin/RomanToInteger.kt) - description on [LeetCode](https://leetcode.com/problems/roman-to-integer/)
    - [Integer to Roman](src/main/kotlin/IntegerToRoman.kt) - description on [LeetCode](https://leetcode.com/problems/integer-to-roman/)
