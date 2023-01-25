@@ -14,6 +14,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Multiply Strings](src/main/kotlin/MultiplyStrings.kt) - description on [LeetCode](https://leetcode.com/problems/multiply-strings/)
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
+   - [String to Integer](src/main/kotlin/StringToInteger.kt) - description on [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/)
    - [Reverse Integer](src/main/kotlin/ReverseInteger.kt) - description on [LeetCode](https://leetcode.com/problems/reverse-integer/)
    - [Zigzag Conversion](src/main/kotlin/ZigzagConversion.kt) - description on [LeetCode](https://leetcode.com/problems/zigzag-conversion/)
    - [Longest Palindromic Substring](src/main/kotlin/LongestPalindromicSubstring.kt) - description on [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)
