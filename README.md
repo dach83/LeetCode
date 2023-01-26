@@ -16,6 +16,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [4Sum](src/main/kotlin/FourSum.kt) - description on [LeetCode](https://leetcode.com/problems/4sum/)
    - [Letter Combinations of a Phone Number](src/main/kotlin/LetterCombinationsOfPhoneNumber.kt) - description on [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
    - [3Sum Closest](src/main/kotlin/ThreeSumClosest.kt) - description on [LeetCode](https://leetcode.com/problems/3sum-closest/)
    - [3Sum](src/main/kotlin/ThreeSum.kt) - description on [LeetCode](https://leetcode.com/problems/3sum/)
