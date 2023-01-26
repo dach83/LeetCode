@@ -6,27 +6,9 @@ class AddTwoNumbersTest {
     private fun checkAnswer(expected: IntArray, l1: IntArray, l2: IntArray) {
         val sut = AddTwoNumbers()
 
-        val actual = sut.addTwoNumbers(l1.toListNode(), l2.toListNode())?.toIntArray()
+        val actual = sut.addTwoNumbers(l1.toListNode(), l2.toListNode()).toIntArray()
 
         assertThat(actual).isEqualTo(expected)
-    }
-
-    private fun IntArray.toListNode(): ListNode? {
-        var node: ListNode? = null
-        reversed().forEach() { num ->
-            node = ListNode(num).apply { next = node }
-        }
-        return node
-    }
-
-    private fun ListNode?.toIntArray(): IntArray {
-        var node: ListNode? = this
-        val list = mutableListOf<Int>()
-        while (node != null) {
-            list.add(node.`val`)
-            node = node.next
-        }
-        return list.toIntArray()
     }
 
     @Test
