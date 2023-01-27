@@ -18,6 +18,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [Remove Element](src/main/kotlin/RemoveElement.kt) - description on [LeetCode](https://leetcode.com/problems/remove-element/)   
    - [Remove Duplicates from Sorted Array](src/main/kotlin/RemoveDuplicatesFromSortedArray.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)   
    - [Reverse Nodes in k-Group](src/main/kotlin/ReverseNodesInKGroup.kt) - description on [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/)   
    - [Swap Nodes in Pairs](src/main/kotlin/SwapNodesInPairs.kt) - description on [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/)   
