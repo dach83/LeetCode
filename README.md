@@ -18,6 +18,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [Merge k Sorted Lists](src/main/kotlin/MergeKSortedLists.kt) - description on [LeetCode](https://leetcode.com/problems/generate-parentheses/)
    - [Generate Parentheses](src/main/kotlin/GenerateParentheses.kt) - description on [LeetCode](https://leetcode.com/problems/generate-parentheses/)
    - [Merge Two Sorted Lists](src/main/kotlin/MergeTwoSortedLists.kt) - description on [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
    - [Valid Parentheses](src/main/kotlin/ValidParentheses.kt) - description on [LeetCode](https://leetcode.com/problems/valid-parentheses/)
