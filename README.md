@@ -20,6 +20,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [Substring with Concatenation of All Words](src/main/kotlin/SubstringWithConcatenationOfAllWords.kt) - description on [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)   
    - [Divide Two Integers](src/main/kotlin/DivideTwoIntegers.kt) - description on [LeetCode](https://leetcode.com/problems/divide-two-integers/)   
    - [Find the Index of the First Occurrence in a String](src/main/kotlin/FindTheIndexOfTheFirstOccurrenceInString.kt) - description on [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)   
    - [Remove Element](src/main/kotlin/RemoveElement.kt) - description on [LeetCode](https://leetcode.com/problems/remove-element/)   
