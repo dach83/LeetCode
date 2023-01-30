@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Merge Intervals](src/main/kotlin/MergeIntervals.kt) - description on [LeetCode](https://leetcode.com/problems/merge-intervals/)
    - [Jump Game](src/main/kotlin/JumpGame.kt) - description on [LeetCode](https://leetcode.com/problems/jump-game/)
    - [Spiral Matrix](src/main/kotlin/SpiralMatrix.kt) - description on [LeetCode](https://leetcode.com/problems/spiral-matrix/)
    - [Maximum Subarray](src/main/kotlin/MaximumSubarray.kt) - description on [LeetCode](https://leetcode.com/problems/maximum-subarray/)
