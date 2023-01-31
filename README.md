@@ -21,6 +21,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [Search in Rotated Sorted Array](src/main/kotlin/SearchInRotatedSortedArray.kt) - description on [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)   
    - [Longest Valid Parentheses](src/main/kotlin/LongestValidParentheses.kt) - description on [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)   
    - [Next Permutation](src/main/kotlin/NextPermutation.kt) - description on [LeetCode](https://leetcode.com/problems/next-permutation/)   
    - [Substring with Concatenation of All Words](src/main/kotlin/SubstringWithConcatenationOfAllWords.kt) - description on [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)   
