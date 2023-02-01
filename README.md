@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Length of Last Word](src/main/kotlin/LengthOfLastWord.kt) - description on [LeetCode](https://leetcode.com/problems/length-of-last-word/)
    - [Insert Interval](src/main/kotlin/InsertInterval.kt) - description on [LeetCode](https://leetcode.com/problems/insert-interval/)
    - [Merge Intervals](src/main/kotlin/MergeIntervals.kt) - description on [LeetCode](https://leetcode.com/problems/merge-intervals/)
    - [Jump Game](src/main/kotlin/JumpGame.kt) - description on [LeetCode](https://leetcode.com/problems/jump-game/)
