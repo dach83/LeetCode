@@ -22,6 +22,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
    - [Trapping Rain Water](src/main/kotlin/TrappingRainWater.kt) - description on [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
    - [First Missing Positive](src/main/kotlin/FirstMissingPositive.kt) - description on [LeetCode](https://leetcode.com/problems/first-missing-positive/)
 
+   - [Sudoku Solver](src/main/kotlin/SudokuSolver.kt) - description on [LeetCode](https://leetcode.com/problems/sudoku-solver/)   
    - [Valid Sudoku](src/main/kotlin/ValidSudoku.kt) - description on [LeetCode](https://leetcode.com/problems/valid-sudoku/)   
    - [Search Insert Position](src/main/kotlin/SearchInsertPosition.kt) - description on [LeetCode](https://leetcode.com/problems/search-insert-position/)   
    - [Find First and Last Position of Element in Sorted Array](src/main/kotlin/FindFirstAndLastPositionOfElementInSortedArray.kt) - description on [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)   
