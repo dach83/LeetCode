@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Permutation Sequence](src/main/kotlin/PermutationSequence.kt) - description on [LeetCode](https://leetcode.com/problems/permutation-sequence/)
    - [Spiral Matrix II](src/main/kotlin/SpiralMatrixII.kt) - description on [LeetCode](https://leetcode.com/problems/spiral-matrix-ii/)
    - [Length of Last Word](src/main/kotlin/LengthOfLastWord.kt) - description on [LeetCode](https://leetcode.com/problems/length-of-last-word/)
    - [Insert Interval](src/main/kotlin/InsertInterval.kt) - description on [LeetCode](https://leetcode.com/problems/insert-interval/)
