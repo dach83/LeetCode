@@ -1,5 +1,5 @@
 /**
- * Problem description on [LeetCode](https://leetcode.com/problems/permutation-sequence/)
+ * Problem description on [LeetCode](https://leetcode.com/problems/rotate-list/)
  */
 class RotateList {
 
