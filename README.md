@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Minimum Path Sum](src/main/kotlin/MinimumPathSum.kt) - description on [LeetCode](https://leetcode.com/problems/minimum-path-sum/)
    - [Unique Paths II](src/main/kotlin/UniquePathsII.kt) - description on [LeetCode](https://leetcode.com/problems/unique-paths-ii/)
    - [Unique Paths](src/main/kotlin/UniquePaths.kt) - description on [LeetCode](https://leetcode.com/problems/unique-paths/)
    - [Rotate List](src/main/kotlin/RotateList.kt) - description on [LeetCode](https://leetcode.com/problems/rotate-list/)
