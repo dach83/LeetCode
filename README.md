@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Add Binary](src/main/kotlin/AddBinary.kt) - description on [LeetCode](https://leetcode.com/problems/add-binary/)
    - [Plus One](src/main/kotlin/PlusOne.kt) - description on [LeetCode](https://leetcode.com/problems/plus-one/)
    - [Valid Number](src/main/kotlin/ValidNumber.kt) - description on [LeetCode](https://leetcode.com/problems/valid-number/)
    - [Minimum Path Sum](src/main/kotlin/MinimumPathSum.kt) - description on [LeetCode](https://leetcode.com/problems/minimum-path-sum/)
