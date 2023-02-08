@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Text Justification](src/main/kotlin/TextJustification.kt) - description on [LeetCode](https://leetcode.com/problems/text-justification/)
    - [Add Binary](src/main/kotlin/AddBinary.kt) - description on [LeetCode](https://leetcode.com/problems/add-binary/)
    - [Plus One](src/main/kotlin/PlusOne.kt) - description on [LeetCode](https://leetcode.com/problems/plus-one/)
    - [Valid Number](src/main/kotlin/ValidNumber.kt) - description on [LeetCode](https://leetcode.com/problems/valid-number/)
