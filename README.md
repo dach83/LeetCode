@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Simplify Path](src/main/kotlin/SimplifyPath.kt) - description on [LeetCode](https://leetcode.com/problems/simplify-path/)
    - [Climbing Stairs](src/main/kotlin/ClimbingStairs.kt) - description on [LeetCode](https://leetcode.com/problems/climbing-stairs/)
    - [Sqrt(x)](src/main/kotlin/SqrtX.kt) - description on [LeetCode](https://leetcode.com/problems/sqrtx/)
    - [Text Justification](src/main/kotlin/TextJustification.kt) - description on [LeetCode](https://leetcode.com/problems/text-justification/)
