@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Set Matrix Zeroes](src/main/kotlin/SetMatrixZeroes.kt) - description on [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
    - [Edit Distance](src/main/kotlin/EditDistance.kt) - description on [LeetCode](https://leetcode.com/problems/edit-distance/)
    - [Simplify Path](src/main/kotlin/SimplifyPath.kt) - description on [LeetCode](https://leetcode.com/problems/simplify-path/)
    - [Climbing Stairs](src/main/kotlin/ClimbingStairs.kt) - description on [LeetCode](https://leetcode.com/problems/climbing-stairs/)
