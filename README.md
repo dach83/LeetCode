@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Combinations](src/main/kotlin/Combinations.kt) - description on [LeetCode](https://leetcode.com/problems/combinations/)
    - [Minimum Window Substring](src/main/kotlin/MinimumWindowSubstring.kt) - description on [LeetCode](https://leetcode.com/problems/minimum-window-substring/)
    - [Sort Colors](src/main/kotlin/SortColors.kt) - description on [LeetCode](https://leetcode.com/problems/sort-colors/)
    - [Search a 2D Matrix](src/main/kotlin/Search2DMatrix.kt) - description on [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)
