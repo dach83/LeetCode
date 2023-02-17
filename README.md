@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Word Search](src/main/kotlin/WordSearch.kt) - description on [LeetCode](https://leetcode.com/problems/word-search/)
    - [Subsets](src/main/kotlin/Subsets.kt) - description on [LeetCode](https://leetcode.com/problems/subsets/)
    - [Combinations](src/main/kotlin/Combinations.kt) - description on [LeetCode](https://leetcode.com/problems/combinations/)
    - [Minimum Window Substring](src/main/kotlin/MinimumWindowSubstring.kt) - description on [LeetCode](https://leetcode.com/problems/minimum-window-substring/)
