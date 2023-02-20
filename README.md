@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Remove Duplicates from Sorted Array II](src/main/kotlin/RemoveDuplicatesFromSortedArrayII.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
    - [Word Search](src/main/kotlin/WordSearch.kt) - description on [LeetCode](https://leetcode.com/problems/word-search/)
    - [Subsets](src/main/kotlin/Subsets.kt) - description on [LeetCode](https://leetcode.com/problems/subsets/)
    - [Combinations](src/main/kotlin/Combinations.kt) - description on [LeetCode](https://leetcode.com/problems/combinations/)
