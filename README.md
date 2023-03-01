@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Remove Duplicates from Sorted List](src/main/kotlin/RemoveDuplicatesFromSortedList.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
    - [Remove Duplicates from Sorted List II](src/main/kotlin/RemoveDuplicatesFromSortedListII.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
    - [Search in Rotated Sorted Array II](src/main/kotlin/SearchInRotatedSortedArrayII.kt) - description on [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
    - [Remove Duplicates from Sorted Array II](src/main/kotlin/RemoveDuplicatesFromSortedArrayII.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
