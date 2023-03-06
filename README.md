@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Maximal Rectangle](src/main/kotlin/MaximalRectangle.kt) - description on [LeetCode](https://leetcode.com/problems/maximal-rectangle/)
    - [Largest Rectangle in Histogram](src/main/kotlin/LargestRectangleInHistogram.kt) - description on [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
    - [Remove Duplicates from Sorted List](src/main/kotlin/RemoveDuplicatesFromSortedList.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
    - [Remove Duplicates from Sorted List II](src/main/kotlin/RemoveDuplicatesFromSortedListII.kt) - description on [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
