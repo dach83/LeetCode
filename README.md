@@ -4,6 +4,7 @@ Solving algorithmic problems with [LeetCode](https://leetcode.com/) on Kotlin.
 
 ## My progress
    
+   - [Scramble String](src/main/kotlin/leetcode/ScrambleString.kt) - description on [LeetCode](https://leetcode.com/problems/scramble-string/)
    - [Partition List](src/main/kotlin/leetcode/PartitionList.kt) - description on [LeetCode](https://leetcode.com/problems/partition-list/)
    - [Maximal Rectangle](src/main/kotlin/leetcode/MaximalRectangle.kt) - description on [LeetCode](https://leetcode.com/problems/maximal-rectangle/)
    - [Largest Rectangle in Histogram](src/main/kotlin/leetcode/LargestRectangleInHistogram.kt) - description on [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
